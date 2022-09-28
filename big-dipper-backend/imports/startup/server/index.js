@@ -171,8 +171,10 @@ Meteor.startup(() => {
                 else if(botType == FACEBOOK_BOT){
                     siteName = siteName + "<h4>" + price + "</h4>";
                 }
-                else if(botType != SLACK_BOT){
+                else if(botType == SLACK_BOT){
                     description = price !== "No Price" ? description + "\nPrice: " + price : description;
+                }else {
+                   description = description + "\n" + price;
                 }
                 
                 if (selectedRecipe.entries != null) {
