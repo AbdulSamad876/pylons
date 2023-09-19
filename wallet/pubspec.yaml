@@ -29,7 +29,7 @@ dependencies:
   equatable: ^2.0.5
   expandable: ^5.0.1
   firebase_analytics: ^10.0.2
-  firebase_app_check: ^0.1.1+1
+  firebase_app_check: ^0.2.0
   firebase_core: ^2.1.0
   firebase_crashlytics: ^3.0.2
   firebase_dynamic_links: ^5.0.2
