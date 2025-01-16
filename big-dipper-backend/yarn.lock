@@ -439,9 +439,9 @@
   version "1.1.0"
   resolved "https://registry.npmjs.org/@protobufjs/utf8/-/utf8-1.1.0.tgz"
 
-"@remix-run/router@1.0.3":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@remix-run/router/-/router-1.0.3.tgz#953b88c20ea00d0eddaffdc1b115c08474aa295d"
+"@remix-run/router@1.21.1":
+  version "1.21.1"
+  resolved "https://registry.yarnpkg.com/@remix-run/router/-/router-1.21.1.tgz#bf15274d3856c395402719fa6b1dc8cc5245aaf7"
 
 "@tootallnate/once@2":
   version "2.0.0"
@@ -4217,18 +4217,18 @@ react-responsive-pagination@^1.8.0:
     prop-types "^15.8.1"
     resize-observer-polyfill "^1.5.1"
 
-react-router-dom@^6.4.3:
-  version "6.4.3"
-  resolved "https://registry.yarnpkg.com/react-router-dom/-/react-router-dom-6.4.3.tgz#70093b5f65f85f1df9e5d4182eb7ff3a08299275"
+react-router-dom@^6.28.2:
+  version "6.28.2"
+  resolved "https://registry.yarnpkg.com/react-router-dom/-/react-router-dom-6.28.2.tgz#9bc4f58b0cfe91d39d1a6be4beb0ef051ca9b06e"
   dependencies:
-    "@remix-run/router" "1.0.3"
-    react-router "6.4.3"
+    "@remix-run/router" "1.21.1"
+    react-router "6.28.2"
 
-react-router@6.4.3:
-  version "6.4.3"
-  resolved "https://registry.yarnpkg.com/react-router/-/react-router-6.4.3.tgz#9ed3ee4d6e95889e9b075a5d63e29acc7def0d49"
+react-router@6.28.2:
+  version "6.28.2"
+  resolved "https://registry.yarnpkg.com/react-router/-/react-router-6.28.2.tgz#1ddea57c2de0d99e12d00af14d1499703f1378a9"
   dependencies:
-    "@remix-run/router" "1.0.3"
+    "@remix-run/router" "1.21.1"
 
 react-router@^3.2.1:
   version "3.2.6"
