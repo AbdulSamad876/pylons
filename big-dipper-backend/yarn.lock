@@ -3121,9 +3121,9 @@ jquery@^3.6.1:
   version "3.6.1"
   resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.6.1.tgz#fab0408f8b45fc19f956205773b62b292c147a16"
 
-js-sha256@^0.9.0:
-  version "0.9.0"
-  resolved "https://registry.npmjs.org/js-sha256/-/js-sha256-0.9.0.tgz"
+js-sha256@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/js-sha256/-/js-sha256-1.0.0.tgz#24cdfe8c9184426d814da8e16ba0c769dc425416"
 
 "js-tokens@^3.0.0 || ^4.0.0", js-tokens@^4.0.0:
   version "4.0.0"
